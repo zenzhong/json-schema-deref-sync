@@ -3,7 +3,7 @@
     "name": "Bojan D.",
     "email": "dbojan@gmail.com"
   },
-  "name": "json-schema-deref-sync",
+  "name": "json-schema-derefence-sync",
   "description": "Simple Node.js JSON Schema dereferencer",
   "keywords": [
     "json",
